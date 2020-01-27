@@ -5,22 +5,22 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Ania Aizman
-title: Ania Aizman's teaching portfolio
+title: Ania Aizman's teaching portfolio > past courses > Art and Anarchism > student projects
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+
+url: https://aizman.github.io
 default_img: /assets/images/seo.jpg
-social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
-  - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+#social:
+#  - name: twitter
+#    url: https://twitter.com/thomasvaeth
+#  - name: instagram
+#    url: https://www.instagram.com/thomas.vaeth/
+#  - name: linkedin
+#    url: https://www.linkedin.com/in/thomasvaeth/
+#  - name: github
+#    url: https://github.com/samesies
+#  - name: codepen
+#    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -35,9 +35,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Ania Aizman
+    bio: "Ania Aizman holds a Ph.D. from Harvard and a bachelor’s degree from the University of Chicago, both in Comparative Literature, and with a focus on Russian and Czech. At the University of Michigan, she is writing a book: 'From Tolstoy to Pussy Riot: Anarchist Currents in Russian Culture. Based on archival research and oral histories with artists, writers, and activists, it finds missing links between the nineteenth-century anarchist movements, Soviet underground cultures, and contemporary collectives. It also proposes an anarchist literary theory. Ania’s other research project focuses on contemporary theater in Russia. For this project, she conducted interviews and performance and rehearsal observations between 2014-2018. Her translations of plays by contemporary playwrights Mikhail Durnenkov, Mikhail Ugarov, and Elena Gremina were published by the Performing Arts Journal and Columbia University Press. An article exploring the anarchist aesthetics of Pussy Riot and the OBERIU was published in The Russian Review in January 2019. Ania has also written about trophy films, Russian “New Drama,” and the politics of Soviet children’s poems. Ania is teaching introductory and advanced courses on the cultures of Russia and Eastern Europe at the University of Michigan. In her courses, she shares her love of archival and library research with students and integrates creative assignments inspired by her research topics."
+    url: aizman.github.io
 
 # Pagination settings
 pagination:
