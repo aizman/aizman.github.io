@@ -2,6 +2,7 @@
 layout: post
 title: "New World Disorder: How Anarcho-Punks Said No to Iraq"
 date: 2019-12-24
+categories: ["art_and_anarchism"]
 description: 
 image: 
 author: MIG

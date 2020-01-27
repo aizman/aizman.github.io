@@ -2,6 +2,7 @@
 layout: post
 title: "Esperanto: A History"
 date: 2019-12-19
+categories: ["art_and_anarchism"]
 description: 
 image: /assets/images/esperanto.png
 author: 
