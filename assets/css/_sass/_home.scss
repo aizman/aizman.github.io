@@ -12,7 +12,7 @@
   padding: 10px;
   position: absolute;
 }
-.featured-posts h2 span {
+.featured-posts h2 span, .post-title {
    display: inline-block;
    color: white;
    font: bold 24px/45px Helvetica, Sans-Serif;
@@ -26,6 +26,15 @@
 }
 .featured-posts h1 {
   margin: 10px;
+}
+
+.post-title {
+  margin-bottom: 0.5em;
+  text-decoration: none !important;
+  background-color: $color-gray-dark;
+  &:hover, &:active {
+    background-color: $color-black;
+  }
 }
 
 /*
