@@ -8,11 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Art and Anarchism', folder: 'pages', file: 'art_and_anarchism.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -28,8 +24,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: ''
 
-related_posts: 'You may also enjoy...'
+related_posts: ''
 
 post_date_prefix: 'Written on'

@@ -6,9 +6,9 @@ description:
 ---
 
 {% for post in site.categories.art_and_anarchism %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
+<article>
+    <a href="{{ site.github.url }}{{ post.url }}" class="post-title">
+        <h2>{{ post.title }} {%if post.author %} | by {{ post.author }} {% endif %}</h2>
+    </a>
+</article>
 {% endfor %}
