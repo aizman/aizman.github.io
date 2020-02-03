@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: art_and_anarchism_post
 title: "Anarcho-Punk and Gender Politics"
-categories: ["art_and_anarchism"]
+categories: ["art_and_anarchism_student_work"]
 date: 2019-12-24
 description: 
 image: 

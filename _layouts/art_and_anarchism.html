@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="sidebar sticky-top pt-3 col-3">
+        <ul>
+            <li>
+                <a href="{{ site.github.url }}student-work.html">
+                    Student work
+                </a>
+            </li>
+            <li>
+                <a href="{{ site.github.url }}student-materials.html">
+                    Student-curated teaching materials
+                </a>
+            </li>
+            <li>
+                <a href="{{ site.github.url }}{{ post.url }}">
+                    Materials for teaching Anarchist history
+                </a>
+            </li>
+            <li>
+                <a href="{{ site.github.url }}{{ post.url }}">
+                    What's next?
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-9">{{ content }}</div>
+</div>

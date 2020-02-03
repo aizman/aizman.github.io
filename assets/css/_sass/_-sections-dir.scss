@@ -2,11 +2,14 @@
 @import "variables",
         "base",
         "default",
+        "bootstrap/bootstrap",
         "home",
         "misc",
         "post",
         "header",
         "footer",
         "code",
-        "social-icons";
+        "social-icons",
+        "custom";
+
 // SCSS files roughly correspond to HTML files in _includes and _layouts

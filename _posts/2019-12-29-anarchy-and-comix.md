@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: art_and_anarchism_post
 title: "Anarchy and Comix"
 date: 2019-12-29
-categories: ["art_and_anarchism"]
+categories: ["art_and_anarchism_student_work"]
 description: 
 image: 
 author: MG
