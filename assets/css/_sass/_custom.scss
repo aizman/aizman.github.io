@@ -1,6 +1,7 @@
 /*
   Site container
 */
+
 .sidebar {
   height: 100%;
   //position: fixed;
@@ -9,4 +10,22 @@
   left: 0;
   overflow-x: hidden;
   padding-top: 20px;
+  ul {
+    margin-left: 0.5rem;
+  }
+  li {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+// big box posts
+article {
+  a {
+    &:hover, &:focus {
+      color: #00aa88;
+    }
+  }
 }

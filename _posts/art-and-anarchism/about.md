@@ -1,8 +1,8 @@
 ---
-layout: class
+layout: art_and_anarchism_post
 title: "About post"
-categories: ["art_and_anarchism"]
-nav: "hello"
+categories: ["art-and-anarchism"]
+section: about
 description: 
 image: 
 author: 

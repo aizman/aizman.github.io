@@ -30,7 +30,8 @@ Many anti-war songs evoke anger in order to make listeners question authority. P
 frequently caricatured by its evocative embrace of rage and violence, and as NPR radio host Rick
 Karr noted, as long as there have been songs in America, there have been protest songs (2003).
 Author Kevin Dunn gives an account of his own experience at a punk club in Portland, Oregon a
-few blocks from his hotel when the U.S. was invading Iraq. Popular anti-war songs of the time contained variations of the phrase “blood for oil” in every chorus. Dunn recalls hearing lyrics
+few blocks from his hotel when the U.S. was invading Iraq. Popular anti-war songs of the time contained 
+variations of the phrase “blood for oil” in every chorus. Dunn recalls hearing lyrics
 such as “Don’t give me no shit about blood, sweat, tears and toil / It’s all about the price of oil”
 and “We need healthcare more than going to war / You think it’s democracy they’re fighting for?
 / Bush and Saddam should kick it like back in the day / With the cocaine and Courvoisier.” The
@@ -75,7 +76,8 @@ element of the genre. The movement itself has offered no established leadership 
 either by big business or political parties. In response to big companies silencing anti-war
 messages, punk culture deconstructed and subverted the social order of radio air-time and
 parodied the position of a CEO. By finding a more productive and less destructive way of
-fighting against the status quo, punk rock works within and against the hegemony of capitalist telecommunication networks. Rather than protesting to gain access to dominant institutions,
+fighting against the status quo, punk rock works within and against the hegemony of capitalist 
+telecommunication networks. Rather than protesting to gain access to dominant institutions,
 organizers built their own alternatives. In other words, punk culture is anti-hierarchical and
 cooperative, functioning as a relatively autonomous space in society and providing musicians
 with resources for agency and empowerment. Against the rise of neoliberalism which aimed to
@@ -121,7 +123,8 @@ war advocates. Punk rock has always been on the edge and in the forefront of pol
 youth culture that nurtures a healthy skepticism of authority, serves as a stepping stone towards
 more formal political activism. Punk’s direct, participatory nature of DIY politics constituted a
 direct action approach to politics—a congruence of “means and ends.” Punk is about getting
-involved, not tuning in and dropping out. Youth respond to their environment with proactive organization. DIY punk ventures necessitate the development of basic organizing skills, such as
+involved, not tuning in and dropping out. Youth respond to their environment with proactive organization. 
+DIY punk ventures necessitate the development of basic organizing skills, such as
 designing and distributing flyers, monitoring crowds, and negotiating with police and neighbors
 (Barrett 38). Punk’s DIY ethos and the resource it offers for resisting the multiple forms of
 alienation in modern society is a key tenet of anarchist direct action politics. For the youth
@@ -144,7 +147,8 @@ demonstrated the isolation of the Bush administration policies, helped prevent w
 inspired a generation of activists (Bennis 2013). As one speaker at the event noted, ‘We stand
 here today because our right to dissent, and our right to participate in a real democracy has been
 hijacked by those who call for war’ (Bennis 2013). It was something new in the history of
-contentious politics yet also drawn from anarchist principles: a concerted campaign of transnational collective action—using means of mobilization—which brought millions of people
+contentious politics yet also drawn from anarchist principles: a concerted campaign of transnational 
+collective action—using means of mobilization—which brought millions of people
 together around common goals and against common targets. In a way, the anarchist anti-war
 sympathies within punk DIY culture spread from local scenes into global networks that reached
 millions, one of punk music’s biggest successes.
