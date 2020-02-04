@@ -2,7 +2,8 @@
 layout: art_and_anarchism_post
 title: "Esperanto: A History"
 date: 2019-12-19
-categories: ["art_and_anarchism_student_work"]
+categories: ["art-and-anarchism"]
+section: student-work
 description: 
 image: 
 author: 

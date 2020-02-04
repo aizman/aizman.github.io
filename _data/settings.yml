@@ -8,8 +8,6 @@ google-ID: ''
 
 menu:
 - {name: 'Art and Anarchism', folder: 'pages', file: 'art-and-anarchism/home.html'}
-#- {name: 'Art and Anarchism: Student Work', folder: 'pages', file: 'art-and-anarchism-student-work.html'}
-
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

@@ -5,10 +5,15 @@ subtitle: Student work
 description:
 ---
 
-{% for post in site.categories.art_and_anarchism_student_work %}
-<article>
-    <a href="{{ site.github.url }}{{ post.url }}" class="post-title">
-        <h2>{{ post.title }} {%if post.author %} | by {{ post.author }} {% endif %}</h2>
-    </a>
-</article>
+{% for post in site.categories.art-and-anarchism %}
+{% if post.section == 'student-work' %}
+    <article>
+        <p>{{ post.url }}
+         </p>
+        <a href="{{ site.url }}{{ post.url }}" class="post-title">
+            <h2>{{ post.title }} {% if post.author %} | by {{ post.author }} {% endif %}</h2>
+        </a>
+        <p> {{ post.url }} </p>
+    </article>
+    {% endif %}
 {% endfor %}
